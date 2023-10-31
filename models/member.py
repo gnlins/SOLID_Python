@@ -8,3 +8,6 @@ class Member(User):
     @staticmethod
     def members():
         return ['username1', 'username2', 'team1']
+
+    def work(self):
+        return "Coding..."
