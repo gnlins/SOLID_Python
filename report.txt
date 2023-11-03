@@ -1,0 +1,31 @@
+## REPOS 
+
+**ID: **354858237 **NAME: **actions_sample **STARS: **0
+ **ID: **35306202 **NAME: **Aprendizado_em_C **STARS: **1
+ **ID: **212157996 **NAME: **avrora **STARS: **0
+ **ID: **286813096 **NAME: **Awesome-Profile-README-templates **STARS: **0
+ **ID: **662554876 **NAME: **banana_bank **STARS: **5
+ **ID: **692542613 **NAME: **courses-page **STARS: **0
+ **ID: **274234144 **NAME: **curso_elixir_phoenix_do_zero **STARS: **18
+ **ID: **289693324 **NAME: **curso_solid_python **STARS: **5
+ **ID: **154889637 **NAME: **discuss **STARS: **0
+ **ID: **109134601 **NAME: **dotfliles **STARS: **0
+ **ID: **47146034 **NAME: **dragon-book-exercise-answers **STARS: **0
+ **ID: **151472318 **NAME: **Elixir-Projects **STARS: **0
+ **ID: **151281143 **NAME: **ElixirCode **STARS: **1
+ **ID: **105196707 **NAME: **emacs-fast-start **STARS: **0
+ **ID: **190281599 **NAME: **flutter_study **STARS: **0
+ **ID: **198475070 **NAME: **graphql_elixir_study **STARS: **0
+ **ID: **154189821 **NAME: **identicon **STARS: **0
+ **ID: **261861267 **NAME: **jason **STARS: **0
+ **ID: **35339208 **NAME: **Minha_Carteirinha **STARS: **1
+ **ID: **82422609 **NAME: **my_changelog **STARS: **0
+ **ID: **152507575 **NAME: **node-projects **STARS: **0
+ **ID: **664270327 **NAME: **produto_teste **STARS: **0
+ **ID: **286811972 **NAME: **rafaelcamarda **STARS: **0
+ **ID: **354923438 **NAME: **rockelivery_copy **STARS: **0
+ **ID: **35517604 **NAME: **Simulador_Bancario **STARS: **0
+ **ID: **130708981 **NAME: **trabalhando-remoto **STARS: **0
+ **ID: **678171403 **NAME: **twix **STARS: **0
+ **ID: **313915693 **NAME: **workshop_rocket_gitclient **STARS: **10
+ **ID: **41057968 **NAME: **xptoduino_app **STARS: **0
